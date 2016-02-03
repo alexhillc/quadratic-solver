@@ -237,6 +237,7 @@
 				FAE7E3721C592C4700A0DBC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
