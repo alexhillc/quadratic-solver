@@ -1,5 +1,5 @@
 //
-//  main.c
+//  QuadSolver.c
 //  QuadraticSolver
 //
 //  Created by Alex Hill on 1/27/16.
@@ -25,11 +25,11 @@ int main(int argc, const char * argv[]) {
         printf("The positive root is: %f and negative root is: %f \n", posRoot, negRoot);
     } else if (rootArg == 0.0) {
         //there is a singular root
-        float root = -b/(2*a);
+        float root = -b / (2 * a);
         printf("The root is: %f\n",root);
     } else {
         //there is no real root
-        float real = -b/(2*a);
+        float real = -b / (2 * a);
         float img = sqrt(-rootArg);
         printf("The positive imaginary root is: %f+%fi and the negative imaginary root is: %f-%fi \n", real, img, real, img);
     }
