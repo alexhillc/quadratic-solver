@@ -3,12 +3,12 @@ CC = gcc
 
 # Compiler flags:
 #  -std=c99  uses c99 standard
-#  -g        adds debugging information to the executable file
 #  -Wall     turns on most, but not all, compiler warnings
-CFLAGS  = -std=c99 -g -Wall
+#  -pedantic warnings
+CFLAGS  = -std=c99 -Wall -pedantic
 
 # The build target executable:
-TARGET = QuadSolver
+TARGET = sqrt
 
 all: $(TARGET)
 
