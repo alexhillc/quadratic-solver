@@ -1,17 +1,17 @@
 Spikes
 ======
 
-# gmp
+## gmp
 Investigate GMP multi-precision lib
 
-# scanf
+## scanf
 Reading numbers from command line, test NAN and INF/-INF
 
-# sizeof
+## sizeof
 Use float libs to find the size / precision of floats in C
 
-# sqrt
+## sqrt
 Experiment with sqrt function on NAN and INF/-INF
 
-# quad-func
+## quad-func
 Solves a quadratic function given the parameters
