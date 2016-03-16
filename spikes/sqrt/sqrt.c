@@ -20,8 +20,8 @@ int main(int argc, const char * argv[]) {
 	printf("negInf = %f\n", negInf);
 	printf("sqrt(negInf) = %f\n", sqrt(negInf));
 
-	printf("nanFloat = %f\n",z);
-	printf("sqrt(nanFloat) %f\n", sqrt(nanFloat));
+	printf("nanFloat = %f\n", nanFloat);
+	printf("sqrt(nanFloat) = %f\n", sqrt(nanFloat));
 
     return(0);
 }
