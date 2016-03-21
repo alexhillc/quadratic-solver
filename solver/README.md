@@ -1,5 +1,5 @@
-src
-===
+solver
+======
 
 Solver source code
 
