@@ -1,0 +1,38 @@
+----LOGFILE FOR QUADRATIC EQUATION SOLVER----
+
+Return Value from prompt(): 5 9 0
+
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:5 9 0
+
+Return parameters to input_val():
+	Coef.a: 5.000000 Coef.b:9.000000 Coef.c: 0.000000 
+
+Passed parameters to num_roots():
+	Coef.a: 5.000000 Coef.b:9.000000 Coef.c: 0.000000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 5.000000 Coef.b:9.000000 Coef.c: 0.000000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 81.000000
+	Returned from qsolve_sqrt():
+		sqt: 9.000000
+Return value(s) from calc_roots():
+	Root.X1:0.000000 Root.X2:-1.800000
+
+Passed parameters to format():
+	num_roots = 2 Root.x1: 0.000000 Root.x2: -1.800000
+Return value from format():
+	buf: There are 2 real roots;
+The first root is: 0.000000
+The second root is: -1.800000
+
+Passed parameters to output():
+	s: There are 2 real roots;
+The first root is: 0.000000
+The second root is: -1.800000 
+
+Returned parameter from output():
+	TRUE 

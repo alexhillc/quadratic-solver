@@ -1,0 +1,456 @@
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+	Passed to qsolve_sqrt():
+		x: 0.040000
+	Returned from qsolve_sqrt():
+		sqt: 0.200000
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000
+
+Passed parameters to num_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 
+Return value from num_roots():
+	retVal: 2
+
+Passed parameters to calc_roots():
+	Coef.a: 1.000000 Coef.b:-6.400000 Coef.c: 10.230000 num_roots: 2
+Return value(s) from calc_roots():
+	Root.X1:3.300000 Root.X2:3.100000

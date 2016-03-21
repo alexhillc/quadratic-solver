@@ -1,10 +1,20 @@
-Quadratic Solver
-================
+Quadratic Equation Solver
+=========================
 
-Directories:
+CS4900
+Authors: Alex Hill, Hogan Charters
 
-* spikes/gmp
-* spikes/quad
-* spikes/scanf
-* spikes/sizeof
-* spikes/sqrt
+Directories
+-----------
+
+* spikes/
+
+    Investigations, sample code
+
+* solver/
+
+    Solver source code
+
+* test/
+
+    Integration tests

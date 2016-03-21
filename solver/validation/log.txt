@@ -1,0 +1,61 @@
+
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 2 1
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:1 a 1

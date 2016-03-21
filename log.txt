@@ -1,0 +1,12 @@
+----LOGFILE FOR QUADRATIC EQUATION SOLVER----
+
+Return Value from prompt(): 3 56 
+
+Passed parameters to input_val():
+	Coef.a: 0.000000 Coef.b:0.000000 Coef.c: 0.000000 input:3 56 
+
+Passed parameters to output():
+	s: Invalid input 
+
+Returned parameter from output():
+	TRUE 
