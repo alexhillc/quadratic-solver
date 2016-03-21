@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "NaN 9 0" | ../quadsolve | diff - <(cat <<EOF
+echo "NaN 9 0" | ../quad-solver | diff - <(cat <<EOF
 Enter values: Invalid input
 EOF
 )

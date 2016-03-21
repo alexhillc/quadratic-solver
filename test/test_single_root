@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "9 12 4" | ../quadsolve | diff - <(cat <<EOF
+echo "9 12 4" | ../quad-solver | diff - <(cat <<EOF
 Enter values: This is a Single/Double root
 The root is: -0.666667
 EOF
