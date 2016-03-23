@@ -1,6 +1,8 @@
 scanf
 =====
 
+This is some testing of the scanf function offered by the stdio library
+
 Testing
 =======
 
