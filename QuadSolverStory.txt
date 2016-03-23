@@ -1,0 +1,10 @@
+Quadratic Solver Story
+Hogan Charters
+Alex Hill
+
+The purpose of the Quadratic Solver is to compute the real, or imaginary roots of the equations.
+To do this the solver will grab the coefficents for the quadratic from the command line as passed arguments.
+Using the atoi function it converts the string inputs to convert to integers.
+It then calculates the discriminate of the formula to help determine if we are dealing with imaginary numbers or real numbers.
+We know that if the discriminate if positive then we have to real roots, if it is negative there are imaginary roots and if it is equal to zero there is only one real root.
+After calculating the root values using the rest of the quadratic formula we then output the roots to the user.
